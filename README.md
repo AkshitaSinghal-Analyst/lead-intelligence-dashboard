@@ -1,4 +1,4 @@
-# SkillScoop Lead Intelligence & Market Research Dashboard
+# Lead Intelligence & Market Research Dashboard
 
 ## Project Overview
 
